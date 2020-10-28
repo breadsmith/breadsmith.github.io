@@ -89,11 +89,11 @@ img {
     margin-bottom: 0px;
   }
 
-  .caption {
-      width: 50%;
-      margin: auto;
-      color: whitesmoke;
-      text-align: center;
-      margin-top: 20px;
-      margin-bottom: 20px;
+.caption {
+    width: 50%;
+    margin: auto;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
